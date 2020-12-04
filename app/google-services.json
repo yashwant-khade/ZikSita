@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297951833082",
+    "firebase_url": "https://ziksi-ff871.firebaseio.com",
+    "project_id": "ziksi-ff871",
+    "storage_bucket": "ziksi-ff871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297951833082:android:cd21ab703a167c84a01243",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.posenet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297951833082-c8t22bvis5dfcsc28vq7ufva5755p4qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrsGyaWPm6-o_--mBjIEHfJG1U_IeSb1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297951833082-c8t22bvis5dfcsc28vq7ufva5755p4qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
